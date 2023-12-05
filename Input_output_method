@@ -1,0 +1,11 @@
+# Method 1
+name = input('What is your name?\n')     # \n ---> newline  ---> It causes a line break
+print(name)
+
+# Method 2
+val = input("Enter your value: ")
+print(val)
+
+#Method 3
+
+
